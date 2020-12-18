@@ -1,1 +1,68 @@
-button.jsx-707793494{background-color:transparent !important;border:0 none !important;}.vote-control.jsx-707793494{color:rgb(63, 64, 63) !important;text-align:center !important;width:40px !important;max-width:100% !important;-webkit-user-select:none !important;-moz-user-select:none !important;-ms-user-select:none !important;user-select:none !important;}.vote-control-heavy.jsx-707793494{border:1px solid rgb(63, 64, 63) !important;border-radius:4px !important;}.vote-control-can-vote.jsx-707793494{cursor:pointer !important;}.vote-control-heavy.vote-control-can-vote.jsx-707793494:hover{background-color:#5ea170 !important;color:white !important;}.vote-control-heavy.vote-control-can-vote.jsx-707793494:hover,.vote-control-heavy.vote-control-active.jsx-707793494{border:1px solid #5ea170 !important;}.vote-control-lite.vote-control-can-vote.jsx-707793494:hover,.vote-control-lite.vote-control-active.jsx-707793494{color:#5ea170 !important;}.vote-control-arrow.jsx-707793494{font-size:16px !important;padding:5px !important;pointer-events:none !important;}.vote-control-count.jsx-707793494{pointer-events:none !important;font-size:16px !important;font-weight:bold !important;padding:0 5px 5px !important;}.vote-control-active.jsx-707793494,.vote-control-active.jsx-707793494:hover{color:#5ea170 !important;}.vote-control-heavy.vote-control-active.jsx-707793494,.vote-control-heavy.vote-control-active.jsx-707793494:hover{background-color:#5ea170 !important;color:white !important;}.vote-control-heavy.vote-control-active.jsx-707793494,.vote-control-heavy.vote-control-active.jsx-707793494:hover{color:white !important;}
+button.jsx-707793494 {
+	background-color: transparent !important;
+	border: 0 none !important;
+}
+
+.vote-control.jsx-707793494 {
+	color: rgb(63, 64, 63) !important;
+	text-align: center !important;
+	width: 40px !important;
+	max-width: 100% !important;
+	-webkit-user-select: none !important;
+	-moz-user-select: none !important;
+	-ms-user-select: none !important;
+	user-select: none !important;
+}
+
+.vote-control-heavy.jsx-707793494 {
+	border: 1px solid rgb(63, 64, 63) !important;
+	border-radius: 4px !important;
+}
+
+.vote-control-can-vote.jsx-707793494 {
+	cursor: pointer !important;
+}
+
+.vote-control-heavy.vote-control-can-vote.jsx-707793494:hover {
+	background-color: #5ea170 !important;
+	color: white !important;
+}
+
+.vote-control-heavy.vote-control-can-vote.jsx-707793494:hover,
+.vote-control-heavy.vote-control-active.jsx-707793494 {
+	border: 1px solid #5ea170 !important;
+}
+
+.vote-control-lite.vote-control-can-vote.jsx-707793494:hover,
+.vote-control-lite.vote-control-active.jsx-707793494 {
+	color: #5ea170 !important;
+}
+
+.vote-control-arrow.jsx-707793494 {
+	font-size: 16px !important;
+	padding: 5px !important;
+	pointer-events: none !important;
+}
+
+.vote-control-count.jsx-707793494 {
+	pointer-events: none !important;
+	font-size: 16px !important;
+	font-weight: bold !important;
+	padding: 0 5px 5px !important;
+}
+
+.vote-control-active.jsx-707793494,
+.vote-control-active.jsx-707793494:hover {
+	color: #5ea170 !important;
+}
+
+.vote-control-heavy.vote-control-active.jsx-707793494,
+.vote-control-heavy.vote-control-active.jsx-707793494:hover {
+	background-color: #5ea170 !important;
+	color: white !important;
+}
+
+.vote-control-heavy.vote-control-active.jsx-707793494,
+.vote-control-heavy.vote-control-active.jsx-707793494:hover {
+	color: white !important;
+}

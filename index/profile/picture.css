@@ -1,1 +1,66 @@
-.profile-icon.jsx-86912032{display:block !important;background-size:cover !important;border-radius:100% !important;background-color:#fff !important;background-position:center !important;position:relative !important;}.prfile-icon-xxs.jsx-86912032{width:12px !important;min-width:12px !important;height:12px !important;min-height:12px !important;}.profile-icon-xs.jsx-86912032{width:14px !important;min-width:14px !important;height:14px !important;min-height:14px !important;}.profile-icon-s.jsx-86912032{width:16px !important;min-width:16px !important;height:16px !important;min-height:16px !important;}.profile-icon-m.jsx-86912032{width:32px !important;min-width:32px !important;height:32px !important;min-height:32px !important;}.profile-icon-l.jsx-86912032{width:64px !important;min-width:64px !important;height:64px !important;min-height:64px !important;}.profile-icon-xl.jsx-86912032{width:128px !important;min-width:128px !important;height:128px !important;min-height:128px !important;}.profile-icon-inherit.jsx-86912032{width:100% !important;}.profile-icon-inherit.jsx-86912032 img.jsx-86912032{display:block !important;width:100% !important;height:100% !important;}.profile-icon.jsx-86912032>span.jsx-86912032{position:absolute !important;right:0 !important;bottom:0 !important;}
+.profile-icon.jsx-86912032 {
+	display: block !important;
+	background-size: cover !important;
+	border-radius: 100% !important;
+	background-color: #fff !important;
+	background-position: center !important;
+	position: relative !important;
+}
+
+.prfile-icon-xxs.jsx-86912032 {
+	width: 12px !important;
+	min-width: 12px !important;
+	height: 12px !important;
+	min-height: 12px !important;
+}
+
+.profile-icon-xs.jsx-86912032 {
+	width: 14px !important;
+	min-width: 14px !important;
+	height: 14px !important;
+	min-height: 14px !important;
+}
+
+.profile-icon-s.jsx-86912032 {
+	width: 16px !important;
+	min-width: 16px !important;
+	height: 16px !important;
+	min-height: 16px !important;
+}
+
+.profile-icon-m.jsx-86912032 {
+	width: 32px !important;
+	min-width: 32px !important;
+	height: 32px !important;
+	min-height: 32px !important;
+}
+
+.profile-icon-l.jsx-86912032 {
+	width: 64px !important;
+	min-width: 64px !important;
+	height: 64px !important;
+	min-height: 64px !important;
+}
+
+.profile-icon-xl.jsx-86912032 {
+	width: 128px !important;
+	min-width: 128px !important;
+	height: 128px !important;
+	min-height: 128px !important;
+}
+
+.profile-icon-inherit.jsx-86912032 {
+	width: 100% !important;
+}
+
+.profile-icon-inherit.jsx-86912032 img.jsx-86912032 {
+	display: block !important;
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.profile-icon.jsx-86912032>span.jsx-86912032 {
+	position: absolute !important;
+	right: 0 !important;
+	bottom: 0 !important;
+}

@@ -1,1 +1,31 @@
-.email-verification-banner.jsx-2989899564{border-color:#e2a8a7 !important;border-style:solid !important;border-width:1px 0px !important;color:#d56d6d !important;background-color:#fef1f1 !important;width:100% !important;text-align:center !important;padding:10px !important;display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important;-webkit-align-items:center !important;-webkit-box-align:center !important;-ms-flex-align:center !important;align-items:center !important;-webkit-box-pack:center !important;-webkit-justify-content:center !important;-ms-flex-pack:center !important;justify-content:center !important;}.email-verification-banner.jsx-2989899564 a.jsx-2989899564{color:#4183c4 !important;}.email-verification-banner.jsx-2989899564 a.jsx-2989899564:hover{border-bottom:1px solid #4183c4 !important;cursor:pointer !important;}
+.email-verification-banner.jsx-2989899564 {
+	border-color: #e2a8a7 !important;
+	border-style: solid !important;
+	border-width: 1px 0px !important;
+	color: #d56d6d !important;
+	background-color: #fef1f1 !important;
+	width: 100% !important;
+	text-align: center !important;
+	padding: 10px !important;
+	display: -webkit-box !important;
+	display: -webkit-flex !important;
+	display: -ms-flexbox !important;
+	display: flex !important;
+	-webkit-align-items: center !important;
+	-webkit-box-align: center !important;
+	-ms-flex-align: center !important;
+	align-items: center !important;
+	-webkit-box-pack: center !important;
+	-webkit-justify-content: center !important;
+	-ms-flex-pack: center !important;
+	justify-content: center !important;
+}
+
+.email-verification-banner.jsx-2989899564 a.jsx-2989899564 {
+	color: #4183c4 !important;
+}
+
+.email-verification-banner.jsx-2989899564 a.jsx-2989899564:hover {
+	border-bottom: 1px solid #4183c4 !important;
+	cursor: pointer !important;
+}
