@@ -4,7 +4,7 @@ A Collecton of CSS files scraped from repl.it for the purpose of CSS injection a
 
 ## Directory Structure
 
-The folder names are pretty self-intuitive. Each folder contains the CSS that styles that specfic portion of Repl.it! Some of might be named incorrectly, I could only do so much with Inspect and I couldn't get any CSS Inspector Chrome Extensions working for the life of me.  If you think a folder or file's name should be changed or moved, just open an issuse ;)
+The folder names are pretty self-intuitive. Each folder contains the CSS that styles that specfic portion of Repl.it! Some of them might be named incorrectly, I could only do so much with Inspect and I couldn't get any CSS Inspector Chrome Extensions working for the life of me.  If you think a folder or file's name should be changed or moved, just open an issuse ;)
 
 
 ## Templates
