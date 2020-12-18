@@ -1,10 +1,15 @@
 ## Repl.it CSS Index
 
-Collecton of CSS files scraped from repl.it for the purpose of CSS injection and theming. I needed a place to organize all the CSS I was scraing, for the sake of my eyes and sanity, so I decided to, **by hand**, organize all of the CSS I'd acquired from Repl.it's HTML pages. So you don't have to. ~~Be grateful.~~ :P
+A Collecton of CSS files scraped from repl.it for the purpose of CSS injection and theming. I needed a place to organize all the CSS I was scraing, for the sake of my eyes and sanity, so I decided to, **by hand**, organize all of the CSS I'd acquired from Repl.it's HTML pages. So you don't have to. ~~Be grateful.~~ :P
 
 ## Directory Structure
 
-The folder names are pretty self-intuitive. Each folder contains the CSS that styles that specfic portion of Repl.it! Some of might be named incorrectly, I could only do so much with Inspect and I couldn't get any CSS Inspector Chrome Extensions working for the life of me. :( If you think a folder or file's name should be changed or moved, just open an issuse ;)
+The folder names are pretty self-intuitive. Each folder contains the CSS that styles that specfic portion of Repl.it! Some of might be named incorrectly, I could only do so much with Inspect and I couldn't get any CSS Inspector Chrome Extensions working for the life of me.  If you think a folder or file's name should be changed or moved, just open an issuse ;)
+
+
+## Templates
+
+The two files `inject.js` and `eject.js` are bookmarklet templates for injecting and ejecting CSS into and from websites. Feel free to tweak or modify them as you see fit. (They're intended for use *together*). They work well for most sites, and if you find that the CSS isn't showing, you probably need to add `!important` to your CSS attributes.
 
 ## Color Index
 
