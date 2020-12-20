@@ -1,5 +1,5 @@
 javascript:(function() {
-    var go = confirm(`Inject CSS onto ${window.location.href}?`)
+    var go = confirm(`Inject CSS onto ${window.location.href}?`);
     if (go) {
         var style = document.createElement("style");
         var head = document.getElementsByTagName("head");
