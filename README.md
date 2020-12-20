@@ -16,7 +16,7 @@ The two files [`inject.js`](https://github.com/IreTheKID/Repl.it-CSS-Index/blob/
 Since I made this for the sake of creating custom themes for Repl.it, it would make sense to keep track of all the colors, so here it is:
 
 ```css
-// ----- Root Colors (Site Only) -----
+/* ----- Root Colors (Site Only) ----- */
 :root {
 --color-brand-dark-blue: #0D101E;
 --color-brand-light-blue: #68CDEE;
@@ -81,7 +81,7 @@ Since I made this for the sake of creating custom themes for Repl.it, it would m
 --color-teal-transparent-3: rgba(0, 181, 206, 0.12);
 }
 
-// ----- Light Theme Colors (IDE Only) -----
+/* ----- Light Theme Colors (IDE Only) ----- */
 .replit-ui-theme-root.light {
 --color-background-1: #ffffff;
 --color-background-2: #f6f6f6;
@@ -127,7 +127,7 @@ Since I made this for the sake of creating custom themes for Repl.it, it would m
 --color-positive-transparent-3: rgba(24, 204, 81, 0.12);
 }
 
-// ----- Dark Theme Colors (IDE Only) -----
+/* ----- Dark Theme Colors (IDE Only) ----- */
 .replit-ui-theme-root.dark {
 --color-background-1: #1d2333;
 --color-background-2: #171d2d;
