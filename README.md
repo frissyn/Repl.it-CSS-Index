@@ -9,7 +9,7 @@ The folder names are pretty self-intuitive. Each folder contains the CSS that st
 
 ## Templates
 
-The two files [`inject.js`](https://github.com/IreTheKID/Repl.it-CSS-Index/blob/master/templates/inject.js) and [`eject.js`](https://github.com/IreTheKID/Repl.it-CSS-Index/blob/master/templates/eject.js) are bookmarklet templates for injecting and ejecting CSS into and from websites. Feel free to tweak or modify them as you see fit. (They're intended for use *together*). They work well for most sites, and if you find that the CSS isn't showing, you probably need to add `!important` to your CSS attributes.
+The two files [`inject.js`](https://github.com/IreTheKID/Repl.it-CSS-Index/blob/master/templates/inject.js) and [`eject.js`](https://github.com/IreTheKID/Repl.it-CSS-Index/blob/master/templates/eject.js) are bookmarklet templates for injecting and ejecting CSS into and from websites. Feel free to tweak or modify them as you see fit. (They're intended for use *together*). They work well for most sites, and if you find that the CSS isn't showing, you probably need to add ` to your CSS attributes.
 
 ## Color Index
 
@@ -175,34 +175,34 @@ Since I made this for the sake of creating custom themes for Repl.it, it would m
 
 /* ----- Language Icon Colors (IDE & Site) ----- */
 :root {
-	--color-languages-java: #b07219 !important;
-	--color-languages-scheme: #1e4aec !important;
-	--color-languages-clojure: #db5855 !important;
-	--color-languages-haskell: #5e5086 !important;
-	--color-languages-lua: #000080 !important;
-	--color-languages-ruby: #701516 !important;
-	--color-languages-python: #3572a5 !important;
-	--color-languages-go: #00add8 !important;
-	--color-languages-cpp: #f34b7d !important;
-	--color-languages-c: #555555 !important;
-	--color-languages-cs: #178600 !important;
-	--color-languages-fs: #b845fc !important;
-	--color-languages-rust: #dea584 !important;
-	--color-languages-swift: #ffac45 !important;
-	--color-languages-r: #198ce7 !important;
-	--color-languages-bash: #000000 !important;
-	--color-languages-crystal: #000100 !important;
-	--color-languages-julia: #a270ba !important;
-	--color-languages-elixir: #6e4a7e !important;
-	--color-languages-nim: #37775b !important;
-	--color-languages-dart: #00b4ab !important;
-	--color-languages-erlang: #b83998 !important;
-	--color-languages-typescript: #2b7489 !important;
-	--color-languages-elisp: #c065db !important;
-	--color-languages-sql: #e34c26 !important;
-	--color-languages-php: #4f5d95 !important;
-	--color-languages-html: #e34c26 !important;
-	--color-languages-css: #563d7c !important;
-	--color-languages-javascript: #f1e05a !important;
+    --color-languages-java: #b07219;
+    --color-languages-scheme: #1e4aec;
+    --color-languages-clojure: #db5855;
+    --color-languages-haskell: #5e5086;
+    --color-languages-lua: #000080;
+    --color-languages-ruby: #701516;
+    --color-languages-python: #3572a5;
+    --color-languages-go: #00add8;
+    --color-languages-cpp: #f34b7d;
+    --color-languages-c: #555555;
+    --color-languages-cs: #178600;
+    --color-languages-fs: #b845fc;
+    --color-languages-rust: #dea584;
+    --color-languages-swift: #ffac45;
+    --color-languages-r: #198ce7;
+    --color-languages-bash: #000000;
+    --color-languages-crystal: #000100;
+    --color-languages-julia: #a270ba;
+    --color-languages-elixir: #6e4a7e;
+    --color-languages-nim: #37775b;
+    --color-languages-dart: #00b4ab;
+    --color-languages-erlang: #b83998;
+    --color-languages-typescript: #2b7489;
+    --color-languages-elisp: #c065db;
+    --color-languages-sql: #e34c26;
+    --color-languages-php: #4f5d95;
+    --color-languages-html: #e34c26;
+    --color-languages-css: #563d7c;
+    --color-languages-javascript: #f1e05a;
 }
 ```
