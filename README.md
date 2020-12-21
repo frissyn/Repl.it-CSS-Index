@@ -172,4 +172,37 @@ Since I made this for the sake of creating custom themes for Repl.it, it would m
 --color-positive-transparent-2: rgba(24, 204, 81, 0.24);
 --color-positive-transparent-3: rgba(24, 204, 81, 0.12);
 }
+
+/* ----- Language Icon Colors (IDE & Site) ----- */
+:root {
+	--color-languages-java: #b07219 !important;
+	--color-languages-scheme: #1e4aec !important;
+	--color-languages-clojure: #db5855 !important;
+	--color-languages-haskell: #5e5086 !important;
+	--color-languages-lua: #000080 !important;
+	--color-languages-ruby: #701516 !important;
+	--color-languages-python: #3572a5 !important;
+	--color-languages-go: #00add8 !important;
+	--color-languages-cpp: #f34b7d !important;
+	--color-languages-c: #555555 !important;
+	--color-languages-cs: #178600 !important;
+	--color-languages-fs: #b845fc !important;
+	--color-languages-rust: #dea584 !important;
+	--color-languages-swift: #ffac45 !important;
+	--color-languages-r: #198ce7 !important;
+	--color-languages-bash: #000000 !important;
+	--color-languages-crystal: #000100 !important;
+	--color-languages-julia: #a270ba !important;
+	--color-languages-elixir: #6e4a7e !important;
+	--color-languages-nim: #37775b !important;
+	--color-languages-dart: #00b4ab !important;
+	--color-languages-erlang: #b83998 !important;
+	--color-languages-typescript: #2b7489 !important;
+	--color-languages-elisp: #c065db !important;
+	--color-languages-sql: #e34c26 !important;
+	--color-languages-php: #4f5d95 !important;
+	--color-languages-html: #e34c26 !important;
+	--color-languages-css: #563d7c !important;
+	--color-languages-javascript: #f1e05a !important;
+}
 ```
