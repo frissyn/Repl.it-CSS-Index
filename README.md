@@ -1,6 +1,6 @@
 ## Repl.it CSS Index
 
-A Collecton of CSS files scraped from repl.it for the purpose of CSS injection and theming. I needed a place to organize all the CSS I was scraing, for the sake of my eyes and sanity, so I decided to, **by hand**, organize all of the CSS I'd acquired from Repl.it's HTML pages. So you don't have to. ~~Be grateful.~~ :P
+A Collecton of CSS files scraped from repl.it for the purpose of CSS injection and theming. I needed a place to organize all the CSS I was scraing, for the sake of my eyes and sanity, so I decided to, **by hand**, organize all of the CSS I'd acquired from Repl.it's HTML pages. So you don't have to. =P
 
 ## Directory Structure
 
