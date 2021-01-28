@@ -9,7 +9,7 @@ The folder names are pretty self-intuitive. Each folder contains the CSS that st
 
 ## Templates
 
-The two files [`inject.js`](https://github.com/IreTheKID/Repl.it-CSS-Index/blob/master/templates/inject.js) and [`eject.js`](https://github.com/IreTheKID/Repl.it-CSS-Index/blob/master/templates/eject.js) are bookmarklet templates for injecting and ejecting CSS into and from websites. Feel free to tweak or modify them as you see fit. (They're intended for use *together*). They work well for most sites, and if you find that the CSS isn't showing, you probably need to add ` to your CSS attributes.
+The two files [`inject.js`](https://github.com/IreTheKID/Repl.it-CSS-Index/blob/master/templates/inject.js) and [`eject.js`](https://github.com/IreTheKID/Repl.it-CSS-Index/blob/master/templates/eject.js) are bookmarklet templates for injecting and ejecting CSS into and from websites. Feel free to tweak or modify them as you see fit. (They're intended for use *together*). They work well for most sites, and if you find that the CSS isn't showing, you probably need to add `!important` to your CSS attributes.
 
 ## Color Index
 
